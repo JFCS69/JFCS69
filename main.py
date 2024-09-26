@@ -3,7 +3,7 @@ from produtos.listagem_produto import menu_principal
 
 # Início do cadastro/login
 while True: 
-    print("""JL.COM
+    print("""JF.COM
             1- CADASTRAR
             2- LOGIN
             X- SAIR""")
